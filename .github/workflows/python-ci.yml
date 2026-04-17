@@ -17,5 +17,5 @@ jobs:
       with:
         python-version: "3.10"
 
-    - name: Run script
+    - name: Skip interactive script 
       run: python expense.py
